@@ -1,6 +1,8 @@
+## Intro
+
 My solutions to [CodeWars](https://www.codewars.com/) katas lie here. They can also be found on my CodeWars profile [here](https://www.codewars.com/users/spicyboi).
 
-Note that the smaller the "kyu" number is the harder the kata is to solve.
+Note that the smaller the "kyu" number is,  the harder the kata is to solve.
 
 ## Important!
 
